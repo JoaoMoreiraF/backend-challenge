@@ -46,7 +46,7 @@ Antes de realizar qualquer ação na API, é necessário ter um usuário cadastr
 {
 	  "name": "Name",
 	  "email": "email@example.com",
-    "cnpj": "111111111111",
+    	  "cnpj": "111111111111",
 	  "password": "password123",
 }
 ```
@@ -90,7 +90,7 @@ Para cadastrar um novo item no sistema, apenas envie uma requisição do tipo **
 {
 	"name": "Name",
 	"description": "descriptioon",
-	"prince": "R$ 10,00"
+	"price": "R$ 10,00"
 }
 ```
 
@@ -111,7 +111,7 @@ Para atualizar algum item, apenas envie ma requisição do tipo put para o endpo
 {
 	"name": "Name",
 	"description": "descriptioon",
-	"prince": "R$ 10,00"
+	"price": "R$ 10,00"
 }
 ```
 
