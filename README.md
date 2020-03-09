@@ -1,4 +1,4 @@
-# Softcom-desafio
+# Backend Challenge
 Este desafio me ajudou a melhorar as minhas skills como desenvolvedor backend, que é algo que eu busco a cada dia. Tive algumas dificuldades, mas busquei superá-las ao longo do desafio. Dos requisitos funcionais, o único que não consegui realizar a tempo foi a listagem de itens por usuário.
 
 ## Dependencies
